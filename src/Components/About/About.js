@@ -8,7 +8,7 @@ const About = () => {
     <div className='about-container'>
         
         <div className="about-desc">
-        <h1>Let me tell you something about me</h1><br></br>
+        <h1 className="about-desc">Let me tell you something about me</h1><br></br>
                <p>Hi ! I am Agustin Spitaleri, Full Stack JR web programmer, specializing in
   with technologies like JavaScript and Reactjs, Angular, NodeJs, Express, 
   and also with tools like HTML5, CSS3, Bootstrap5, npm. Let's look for solutions.</p>
