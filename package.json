@@ -23,6 +23,9 @@
   "bootstrap": "^5.1.3",
   
     
+  "hashrouter": "^1.1.1",
+  
+    
   "react": "^17.0.2",
   
     

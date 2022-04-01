@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import compu1 from '../../Media/compu1.jpg'
+
 
 
 const About = () => {
@@ -8,14 +8,15 @@ const About = () => {
     <div className='about-container'>
         
         <div className="about-desc">
-        <h2>Let me tell you something about me</h2><br></br>
-               <h3>My name is Agustin Spitaleri from Argentina, I am a Full Stack Junior programmer. I am 25 years old and I am passionate about the world of web development. I love entrepreneurship and the passion of those who with initiative create solutions.
-                
-               </h3>
+        <h1>Let me tell you something about me</h1><br></br>
+               <p>Hi ! I am Agustin Spitaleri, Full Stack JR web programmer, specializing in
+  with technologies like JavaScript and Reactjs, Angular, NodeJs, Express, 
+  and also with tools like HTML5, CSS3, Bootstrap5, npm. Let's look for solutions.</p>
+               
 
         </div>
         <div className='about-img'>
-            <img src={compu1} alt='about' />
+         
 
         </div>
     </div>

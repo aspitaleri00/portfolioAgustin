@@ -1,6 +1,6 @@
 import React from 'react'
 import "./info.css"
-import Card from 'react-bootstrap/Card'
+
 
 
 const Info = () => {
@@ -12,7 +12,7 @@ const Info = () => {
 
     <div  className='info-container'>
         <div className='info'>
-    <h1>Lets work tohether and create something unique experience</h1><br></br>
+    <h1>Lets work together and create something unique experience</h1><br></br>
 
   
   

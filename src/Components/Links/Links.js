@@ -14,11 +14,11 @@ const Links = () => {
 
     <div>
 <Card>
-  <Card.Header as="h3">Proyecto "Barnie RestoBar"</Card.Header>
+  <Card.Header as="h3">"Proyecto Barnie RestoBar"</Card.Header>
   <Card.Body>
     <Card.Title>React|JavasCript| </Card.Title>
     <Card.Text>
-      Adaptada solo para web desktop, aun no para móviles.
+     Responsive para web desktop, aun no para móviles.
     </Card.Text>
     <Button variant="dark" href='https://aspitaleri00.github.io/aspitafood/'>Ver Proyecto</Button>
   </Card.Body>
@@ -31,7 +31,7 @@ const Links = () => {
   <Card.Body>
     <Card.Title>React|JavasCript|</Card.Title>
     <Card.Text>
-      Adaptada uso responsive desktop y tablets.
+       Responsive desktop y tablets.
     </Card.Text>
     <Button variant="dark" href='https://aspitaleri00.github.io/hotelone/'>Ver Proyecto</Button>
   </Card.Body>

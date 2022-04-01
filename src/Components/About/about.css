@@ -1,8 +1,8 @@
 .about-container{
     display: flex;
-    background-color: rgb(246, 238, 238);
+    background-color: white;
     color: rgb(0, 0, 0);
-    height: 70vh;
+    height: 100vh;
     padding: 100px 0 100px 0;
 
 
@@ -41,7 +41,7 @@
         height: auto;
     }
     .about-desc{
-        width: 90%;
+        width: 95%;
         margin: 0 auto;
         padding: 40px 20px 50px 20px;
     }
@@ -53,7 +53,9 @@
     }
     .about-img > img {
 
-        width: 100%;
+        width: 50%;
+        height: 35%;
+        position: absolute;
     }
 
 }
