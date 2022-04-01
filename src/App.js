@@ -7,6 +7,7 @@ import Slider from "./Components/Slider/Slider"
 import Info from "./Components/Info/Info"
 import Footer from "./Components/Footer/Footer"
 import Links from "./Components/Links/Links"
+import NavBar from './Components/Nav/NavBar';
 
 
 function App() {
@@ -35,7 +36,7 @@ function App() {
     <div className="App">
       
 
-      
+      <NavBar />
       <Cover />
       <About/>
       <Slider />
