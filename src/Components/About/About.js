@@ -8,10 +8,11 @@ const About = () => {
     <div className='about-container'>
         
         <div className="about-desc">
-        <h3>Let me tell you something about me</h3>
-            <p>Mi nombre es Agustin y especialmente me dedico en esta presentacion porque tatatatatatatatatatatttattattatt
+        <h2>Let me tell you something about me</h2><br></br>
+               <h3>My name is Agustin Spitaleri from Argentina, I am a Full Stack Junior programmer. I am 25 years old and I am passionate about the world of web development. I love entrepreneurship and the passion of those who with initiative create solutions.
+                
+               </h3>
 
-            </p>
         </div>
         <div className='about-img'>
             <img src={compu1} alt='about' />

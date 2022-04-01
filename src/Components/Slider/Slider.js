@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
+
 import "./slider.css";
+
+
 import {
   Carousel,
   CarouselItem,
@@ -9,21 +12,22 @@ import {
 } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
+
 const items = [
   {
-    src: require('../../Media/compu3.jpg'),
-    altText: 'Proyecto1',
-    caption: 'React '
+    src: require('../../Media/javascript.jpg'),
+    altText: 'Javascript',
+    caption: 'Javascript ' 
   },
   {
-    src: require('../../Media/compu1.jpg'),
-    altText: 'Proyecto2',
-    caption: 'Slide '
+    src: require('../../Media/okok.jpg'),
+    altText: 'React Js | Angular',
+    caption: 'React Js | Angular'
   },
   {
-    src: require('../../Media/compu2.jpg'),
+    src: require('../../Media/programmig.jpg'),
     altText: 'Proyecto3',
-    caption: 'React JS'
+    caption: 'Node JS | CSS | HTML'
   }
 ];
 
@@ -72,22 +76,30 @@ class Slider extends Component {
           onExiting={this.onExiting}
           onExited={this.onExited}
           key={item.src}
+          
         >
             <div className="slide-container">
-                
-          <img src={item.src} alt={item.altText}  />
+           
+            <img src={item.src} alt={item.altText}  />
+            
           </div>
+            
+          
         <div className="side-desc">
           <CarouselCaption captionText={item.caption} captionHeader={item.caption} />
           </div>
+          
+          
+          
         </CarouselItem>
+         
       );
     });
 
     return (
         <div >
                       
-    <h1 className='carousel-title'>Mis proyectos</h1>
+    <h3 className='carousel-title'>My Skills</h3>
 
       <Carousel 
         className="carousel-container"

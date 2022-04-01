@@ -6,18 +6,18 @@ export const Footer = () => {
     <div className='footer'>
 
     <div className='footer-info'>
-    <h1>Agustin Spitaleri</h1>
-    <p>Argentina, SudAmerica</p>
+    <h1>Agustin Spitaleri Ortega</h1>
+    <p>Argentina</p>
 
 </div>
     <div className='footer-contact'>
-    <h3>Contactame</h3>
-    <p>Y nos ponemos a trabajar</p>
+    <h3> Contactame</h3>
+    <p>Lets go to work !</p>
 
     </div>
     <div className='footer-sns'>
     <div className='design-by'>
-        Design By AgustinSpita
+        Design By @AgustinSpita
 
     </div>
     <div className='sns-links'>
@@ -28,7 +28,7 @@ export const Footer = () => {
 
     </a>
 
-    <a href='www.linkedin.com/in/agustinspitaleri' target="_blank" rel="noreferrer">
+    <a href='https://www.linkedin.com/in/agustinspitaleri/' target="_blank" rel="noreferrer">
         <i className='fab fa-linkedin linkedin'></i>
 
     </a>
