@@ -45,20 +45,20 @@
 .sns-links {
     display: grid;
     width: 100%;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 
 }
 .linkedin, .instagram {
 
 color: white;
-font-size: 35px;
+font-size: 40px;
 margin: 0 auto;
 padding-bottom: 10px;
 border-bottom: 4px solid transparent;
 
 }
 .linkedin:hover,
-.instagram:hover {
+.whatsapp:hover {
     border-color: white;
     transition: all 0.3s ease-out;
 

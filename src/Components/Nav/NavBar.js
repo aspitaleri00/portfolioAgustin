@@ -20,7 +20,7 @@ const NavBar = () => {
     return (
         <Navbar collapseOnSelect expand="lg" bg="transparent" variant="dark" fixed="top" className={background ? 'navbar sticky' : 'navbar'}>
             <Container fluid>
-            <Nav className='navbar-brand text-center' href='https://www.linkedin.com/in/agustinspitaleri/'><img src={aslogo} width="120"  alt="aslogo"/></Nav> 
+            <Nav className='navbar-brand text-center' href='https://www.linkedin.com/in/agustinspitaleri/'><img src={aslogo} width="110"  alt="aslogo"/></Nav> 
                 <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                 <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
                     <Nav className="text-end">

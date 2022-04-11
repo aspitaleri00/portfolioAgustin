@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolioAgustin/static/css/main.8e934ead.css",
-    "main.js": "/portfolioAgustin/static/js/main.60c6530c.js",
+    "main.css": "/portfolioAgustin/static/css/main.e3149e41.css",
+    "main.js": "/portfolioAgustin/static/js/main.f7c536a4.js",
     "static/media/coverVideo.mp4": "/portfolioAgustin/static/media/coverVideo.061a5b8c03b6de23401f.mp4",
     "static/media/okok.jpg": "/portfolioAgustin/static/media/okok.26c645f3bd96cb667fba.jpg",
-    "static/media/compu1.jpg": "/portfolioAgustin/static/media/compu1.360db750e7cae635717f.jpg",
+    "static/media/aslogo.png": "/portfolioAgustin/static/media/aslogo.abdc88419118ed0cf54a.png",
     "static/media/programmig.jpg": "/portfolioAgustin/static/media/programmig.ce52b777cb7f6b7bf8f5.jpg",
     "static/media/javascript.jpg": "/portfolioAgustin/static/media/javascript.ee3648a165d271872e53.jpg",
     "index.html": "/portfolioAgustin/index.html",
-    "main.8e934ead.css.map": "/portfolioAgustin/static/css/main.8e934ead.css.map",
-    "main.60c6530c.js.map": "/portfolioAgustin/static/js/main.60c6530c.js.map"
+    "main.e3149e41.css.map": "/portfolioAgustin/static/css/main.e3149e41.css.map",
+    "main.f7c536a4.js.map": "/portfolioAgustin/static/js/main.f7c536a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e934ead.css",
-    "static/js/main.60c6530c.js"
+    "static/css/main.e3149e41.css",
+    "static/js/main.f7c536a4.js"
   ]
 }
